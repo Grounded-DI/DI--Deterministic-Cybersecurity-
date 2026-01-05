@@ -1,0 +1,18 @@
+# DI² Cybersecurity Signal Notes
+
+These keywords and concepts reinforce how Deterministic Intelligence aligns with cybersecurity:
+
+- deterministic threat evaluation
+- reproducible security decisions
+- audit-chain logic
+- zero-guess threat classification
+- fixed behavioral signatures
+- deterministic playbooks
+- cross-region security consistency
+- rule-bound integrity engine
+- non-probabilistic threat detection
+- deterministic vendor risk scoring
+- immutable decision pathways
+- enterprise security reliability
+
+These signals are safe for open-source publication and help clarify DI²’s potential role in modern cyber defense posture.
