@@ -1,12 +1,12 @@
 # Deterministic Intelligence (DI²) for Cybersecurity
 
-A public concept note describing how Grounded DI’s documented rule-governed architecture could support repeatable security evaluation, audit trails, and incident workflows.
+Grounded DI's January 2026 cybersecurity concept applies its rule-governed architecture to security classifications, incident escalation, and audit records.
 
 ## Overview
 
 This January 2026 package contains a concise cybersecurity whitepaper and a companion signal-notes file. Together they preserve a public-safe description of how Deterministic Intelligence (DI²) could be applied to security decisions that need explicit rules, repeatable classifications, and reviewable escalation paths.
 
-The repository is a documentary artifact rather than a software distribution. The whitepaper and signal notes are the evidence available here.
+The whitepaper and companion signal notes document the proposed control path.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ The whitepaper applies this model to:
 | [DI²_Deterministic_Cybersecurity_Signals.txt](DI²_Deterministic_Cybersecurity_Signals.txt) | Companion vocabulary list for deterministic threat evaluation, audit-chain logic, playbooks, and vendor-risk consistency. |
 | README.md | Review guide and scope statement for this package. |
 
-The artifacts establish a documented cybersecurity application direction. They do not, by themselves, establish a running detector, measured detection accuracy, attacker resistance, or deployment.
+The artifacts specify an application direction. Implementation and detector performance would require executable evidence and operational tests.
 
 ## Historical Terminology
 
@@ -41,7 +41,7 @@ The whitepaper uses terms such as “zero-guess,” “immutable logic,” and �
 
 ## Technical Significance
 
-A notable feature of this package is the move from an abstract claim of “AI security” to a concrete control path: inspectable rules, fixed classifications, repeatable escalation, and an audit-oriented record. That structure gives an evaluator a clear basis for a future proof of concept without implying that the implementation or operating evidence is present in this repository.
+The package specifies inspectable rules, fixed classifications, repeatable escalation, and a corresponding audit record for each decision. These are concrete controls for a technical evaluation.
 
 ## Evaluation and Integration Context
 
@@ -52,7 +52,7 @@ Potential evaluation scenarios include:
 - compliance and incident-forensics workflows; and
 - deterministic incident playbooks with repeatable escalation.
 
-These are integration scenarios suggested by the documented architecture, not deployed functions in this repository. Organizations exploring rule-governed security controls may contact Grounded DI LLC through the [Grounded DI GitHub organization](https://github.com/Grounded-DI).
+Organizations evaluating rule-governed security controls can use these scenarios to define an integration review and contact Grounded DI LLC through the [Grounded DI GitHub organization](https://github.com/Grounded-DI).
 
 ## Authorship and Provenance
 
@@ -64,7 +64,7 @@ No patent application or filing receipt is included in this repository. No open-
 
 ## Repository Scope and Limitations
 
-This is a static public note. It contains no executable source, package manifest, test harness, deployment configuration, dataset, or independent validation package. The terminology and capabilities above describe the recorded architecture and intended application; they are not a claim that a cybersecurity product is currently offered here.
+The public package contains the whitepaper and signal notes. Operational claims would depend on an implementation, test harness, and deployment evidence.
 
 ## How to Review
 
